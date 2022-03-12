@@ -14,3 +14,6 @@ using Gradle or Maven. Maven is not well supported, so I recommend Gradle.
 
 Launcher++ is [free software](https://gnu.org/philosophy/free-sw.html) under the [Apache
 license](./LICENSE).
+
+Please note that since this license is incompatible with the GPLv2, you can only incorporate it
+into GPLv3 aoftware or software under any other compatible license.
