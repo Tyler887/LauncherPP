@@ -16,7 +16,7 @@ Launcher++ is [free software](https://gnu.org/philosophy/free-sw.html) under the
 license](./LICENSE).
 
 Please note that since this license is incompatible with the GPLv2, you can only incorporate it
-into GPLv3 aoftware or software under any other compatible license. See [the GNU license list][GNULL entry]
+into GPLv3 software or software under any other compatible license. See [the GNU license list][GNULL entry]
 for more info.
 
 [GNULL entry]: https://gnu.org/licenses/license-list.html#apache2
